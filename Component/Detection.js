@@ -58,7 +58,7 @@ const DetectScreen = () => {
                     <Text style={styles.detectNewText}>Detect New Plant</Text>
                 </View>
                 <View style={styles.DetectGuid}>
-                    <Icon name="camera" size={30} color="#fff" />
+                    <Icon name="help-circle-sharp" size={30} color="#fff" />
                     <Text style={styles.detectGuidText}>For Help</Text>
                 </View>
             </View>
